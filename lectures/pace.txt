@@ -1,0 +1,38 @@
+2005 Schedule, in FairField Inn, Palm Desert
+
+9-12, 1-2:30  9 days
+
+Not for credit.  Very mixed bag of students, many of whom had taken
+Paul Allison's categorical class first, and others who have never done
+much stat.  Go figure.
+
+
+Day	
+
+1	Started off slow because had to rearrange room.  
+	Got through the M&M experiment by lunch, but M&M not so needed
+	because the new intro with rolling survey gets the ideas well.
+	Used R to enter data, show results.
+
+	Did lots more R in the afternoon, showing how to read data and
+	generate plots, annotate plots
+
+	Stopped at top of page 17, starting with CI.
+
+
+2	R is hard for them to pick up, plus there are differences
+	between the mac and pc version that are annoying. room hot.
+
+	Stopped after page 11 in the morning, then picked up speed
+	in the afternoon (they were dragging, so I went faster).  
+
+	Got to page 15, the simple regression model.
+
+
+3	R going along better, but still a bit rich for them to absorb.
+	
+	Stopped after going through the use of logs as transformation
+	in simple regression, with focus on interpretations.
+
+	Stopped at page 16, start of the Leinhard assignment question.
+
